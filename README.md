@@ -1,6 +1,6 @@
 # ⚡ Custom Word2Vec Embedding Engine on Custom Text Corpus
 
-
+<img width="862" height="463" alt="Image" src="https://github.com/user-attachments/assets/83bd51e3-bbc5-4c48-81af-f7bdd4e289fa" />
 ## 🔄 End-to-End NLP Architecture
 
 ```mermaid
