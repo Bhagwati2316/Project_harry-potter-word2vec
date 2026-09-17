@@ -11,8 +11,7 @@ graph TD
     D --> E[Vocabulary Construction]
     E --> F[Word2Vec Model Training Gensim]
     F --> G[Dimensionality Reduction 100D to 3D PCA]
-    G --> H[Interactive 3D Semantic Spacial Visualization] <img width="400" height="213" alt="visualization" src="https://github.com/user-attachments/assets/15325b6a-2e39-460a-8f8a-cfe768287923" />
-
+    G --> H[Interactive 3D Semantic Spacial Visualization]
 ```
 
 ---
