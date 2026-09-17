@@ -1,7 +1,7 @@
 # ⚡ Custom Word2Vec Embedding Engine on Custom Text Corpus
 
 ## 🔄 End-to-End NLP Architecture
-
+https://github.com/user-attachments/assets/b00e390c-11ac-4b00-9073-0d9e7c6f21ed
 ```mermaid
 graph TD
     A[Raw Unstructured Text Corpus] --> B[Sentence Tokenization NLTK]
